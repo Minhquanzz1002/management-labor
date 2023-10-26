@@ -37,4 +37,5 @@ https://github.com/Minhquanzz1002/management-labor.git
 ```
 
 - Chạy `script.sql` trong SQL Server
+- Thay đổi mật khẩu tài khoản `sa` sang `sa`
 - Chạy code

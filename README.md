@@ -37,4 +37,5 @@ https://github.com/Minhquanzz1002/management-labor.git
 ```
 
 - Run `script.sql` on SQL Server
+- Change your SQL `sa` account password to `sa`
 - Run code

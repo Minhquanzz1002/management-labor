@@ -1,4 +1,4 @@
-# Five Man - Hệ thống quản lý lao động - Javaswing
+# Five Man - Labor Management System - Javaswing
 
 Five Man is a system for managing and assigning workers to different job sites
 
